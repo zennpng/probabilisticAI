@@ -7,5 +7,5 @@
 - An AI that can rank web pages by importance, based of Google's search engine optimization framework
 - PageRank Algorithm, Random Surfer Model
 
-Use case data in data.zip 
+Use case data in data.zip,  
 pip install -r requirements.txt 
